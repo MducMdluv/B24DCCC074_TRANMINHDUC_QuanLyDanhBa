@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Colors (Deep Teal Palette) -->
+    <color name="primary">#005954</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_button">#00665B</color>
+    <color name="primary_button_pressed">#00473F</color>
+    <color name="teal_light">#E0F2F1</color>
+
+    <!-- Accent / Warning / Star -->
+    <color name="star_gold">#F59E0B</color>
+    <color name="accent">#F59E0B</color>
+
+    <!-- UI Backgrounds -->
+    <color name="background">#F5F7F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_border">#D1D5DB</color>
+    <color name="input_border_focused">#00665B</color>
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_placeholder">#A0AEC0</color>
+    <color name="stats_subtext">#D1E7E4</color>
+
+    <!-- Action & Status Colors -->
+    <color name="error">#DC2626</color>
+    <color name="danger">#C62828</color>
+    <color name="danger_pressed">#A71D1D</color>
+
+    <!-- Avatar Colors -->
+    <color name="avatar_bg">#00695C</color>
+    <color name="avatar_teal">#00695C</color>
+    <color name="avatar_orange">#C84B16</color>
+    <color name="avatar_purple">#5E35B1</color>
+    <color name="avatar_blue">#1976D2</color>
+
+    <!-- Group Badge Tags -->
+    <color name="badge_banbe_bg">#E0F2F1</color>
+    <color name="badge_banbe_text">#00695C</color>
+    <color name="badge_giadinh_bg">#E8F5E9</color>
+    <color name="badge_giadinh_text">#2E7D32</color>
+    <color name="badge_congviec_bg">#EDE7F6</color>
+    <color name="badge_congviec_text">#5E35B1</color>
+    <color name="badge_khac_bg">#F3F4F6</color>
+    <color name="badge_khac_text">#4B5563</color>
+</resources>
